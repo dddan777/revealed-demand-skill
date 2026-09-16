@@ -1,0 +1,7 @@
+interface:
+  display_name: "真需求验证器 | Revealed Demand"
+  short_description: "Validate demand with observable market evidence"
+  default_prompt: "Use $revealed-demand to assess my current demand evidence and design the next smallest paid experiment."
+
+policy:
+  allow_implicit_invocation: true

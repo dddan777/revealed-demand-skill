@@ -1,0 +1,29 @@
+{
+  "title": "Two price cells for one transaction unit",
+  "cells": [
+    {
+      "label": "Price A",
+      "price": 39,
+      "exposures": 120,
+      "cta_clicks": 38,
+      "checkouts": 15,
+      "purchases": 9,
+      "refunds": 1,
+      "repeat_buyers": 2,
+      "revenue": 312,
+      "variable_cost": 72
+    },
+    {
+      "label": "Price B",
+      "price": 59,
+      "exposures": 118,
+      "cta_clicks": 34,
+      "checkouts": 13,
+      "purchases": 7,
+      "refunds": 0,
+      "repeat_buyers": 2,
+      "revenue": 413,
+      "variable_cost": 56
+    }
+  ]
+}
